@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Kerem Kezer</h1>
-<h3 align="center">A passionate ML Scientist/Engineer</h3>
+<h3 align="center">Passionate AI learner</h3>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Metaheuristic Optimization Algorithms**
 
 - 📫 How to reach me **keremkezer41@gmail.com**
 
